@@ -54,8 +54,8 @@ uiElements["TextLabel_1"].TextSize = 14
 uiElements["TextLabel_1"].Text = "Made by Venn and Jack"
 
 uiElements["Frame_1"].Parent = uiElements["ProjectV2"]
-uiElements["Frame_1"].Position = UDim2.new(0.009218583814799786, 0, 0.2670034170150757, 0)
-uiElements["Frame_1"].Size = UDim2.new(0, 331, 0, 593)
+uiElements["Frame_1"].Position = UDim2.new(0.009218583814799786, 0, 0.3016187846660614, 0)
+uiElements["Frame_1"].Size = UDim2.new(0, 331, 0, 496)
 uiElements["Frame_1"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 uiElements["Frame_1"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 uiElements["Frame_1"].BorderSizePixel = 0
@@ -79,7 +79,7 @@ uiElements["TextLabel_2"].TextSize = 46
 uiElements["TextLabel_2"].Text = "Welcome"
 
 uiElements["Frame_2"].Parent = uiElements["Frame_1"]
-uiElements["Frame_2"].Position = UDim2.new(0.2628398835659027, 0, 0.1028667762875557, 0)
+uiElements["Frame_2"].Position = UDim2.new(0.2628398835659027, 0, 0.1189957931637764, 0)
 uiElements["Frame_2"].Size = UDim2.new(0, 157, 0, 156)
 uiElements["Frame_2"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 uiElements["Frame_2"].BorderColor3 = Color3.fromRGB(0, 0, 0)
